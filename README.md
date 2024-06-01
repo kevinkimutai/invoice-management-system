@@ -24,3 +24,7 @@ Invoice backend written in golang.
 - Run all `Makefile` commands to get DB up and running
 - Setup [Auth0](https://auth0.com/docs/libraries#backend).
 - run `go run cmd/main.go` inside dir
+
+### Sample PDF Generated
+
+Find the sample PDF generated at ./1717027122.pdf
