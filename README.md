@@ -2,6 +2,8 @@
 
 Invoice backend written in golang.
 
+![screenshot for generated Invoice](https://firebasestorage.googleapis.com/v0/b/creadable-22c39.appspot.com/o/Screenshot%20from%202024-06-02%2000-42-22.png?alt=media&token=5ae1dce7-ec93-4f85-9315-6e0f6fd1c52a)
+
 ## Frameworks & Tools
 
 - GoFiber (Golang Web Framework)
